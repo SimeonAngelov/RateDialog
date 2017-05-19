@@ -1,0 +1,5 @@
+<resources>
+    <string name="maybe_later">Maybe Later</string>
+    <string name="rate_now">Rate Now</string>
+    <string name="app_name">RateDialog</string>
+</resources>
